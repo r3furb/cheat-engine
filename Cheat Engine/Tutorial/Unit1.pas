@@ -42,11 +42,11 @@ resourcestring
   rsFirstStepTooHardBetterGiveUpNow =
     'First step too hard? Better give up now!';
 
-  rsTutorial1='Welcome to the Cheat Engine Tutorial. (v3.2)'+#13#10+
+  rsTutorial1='Welcome to the Classy Engine tutorials'+#13#10+
               ''+#13#10+
-              'This tutorial will try to explain the basics of cheating on games, and getting you more familiar with Cheat Engine.'+#13#10+
+              'This tutorial will try to explain the basics of cheating on games, and getting you more familiar with Classy Engine.'+#13#10+
               ''+#13#10+
-              'First open Cheat Engine if it hasn''t been opened yet.'+#13#10+
+              'First open Classy Engine if it hasn''t been opened yet.'+#13#10+
               'Then click on the ''open process'' icon. (top left icon, with the computer on it)'+#13#10+
               ''+#13#10+
               'When the process window is open find this tutorial. The process name is probably ''tutorial.exe'' unless you'+
